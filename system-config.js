@@ -26,6 +26,7 @@ var barrels = [
     // App specific barrels.
     'app',
     'app/shared',
+    'app/email-form',
 ];
 var cliSystemConfigPackages = {};
 barrels.forEach(function (barrelName) {
