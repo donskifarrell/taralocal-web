@@ -124,6 +124,7 @@
 	#banner {
 		background-size: 10em, 10em, auto, cover;
 		padding: 6em 0;
+		width: 80%
 	}
 
 		#banner .inner {
@@ -169,7 +170,7 @@
 /* Footer */
 
 	#footer {
-		padding: 3em 1.5em;
+		padding: 1.2em 1.5em;
 	}
 
 		#footer .copyright li {
